@@ -14,11 +14,11 @@ class DocumentManager {
           },
           {
             id: 'month-to-month-lease-form',
-            title: 'Month-to-Month Lease Form',
+            title: 'Month-to-Month Lease Form + House Rules',
             description: '',
             domain: 'https://drive.google.com/file/d/',
             filename: 'month-to-month-lease-form.pdf',
-            fileId: '1_IE5yO0DkpEclZcLeUIPVcZxG2M5Rfsg',
+            fileId: '136m9rl1aZuM-H9ViZ14Sbsd2pya6mKIy',
           },
           {
             id: 'guarantee-of-rental-agreement-form',
@@ -47,14 +47,6 @@ class DocumentManager {
             domain: 'https://drive.google.com/file/d/',
             filename: 'tenant-incident-complaint-form.pdf',
             fileId: '1fLTwJIfgLAj8pl2kzgfYFKG-UQ_1b5vX',
-          },
-          {
-            id: 'house-rules',
-            title: 'House Rules',
-            description: '',
-            domain: 'https://docs.google.com/document/d/',
-            filename: 'house-rules.pdf',
-            fileId: '1CzFI340BwXqx5QGI4h7huXs4D1PgFX46-og534dpio8',
           },
         ],
       },
