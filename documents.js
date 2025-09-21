@@ -28,6 +28,14 @@ class DocumentManager {
             filename: 'guarantee-of-rental-agreement-form.pdf',
             fileId: '1Wn-VfHQP0MfmbNdPc_SEYpMUheKGDq-W',
           },
+          {
+            id: 'parking-garage-addendum',
+            title: 'Parking Garage Addendum',
+            description: '',
+            domain: 'https://drive.google.com/file/d/',
+            filename: 'parking-garage-addendum.pdf',
+            fileId: '14WlPYDeF27wUdkcd3-q3NRgMJmzVP5BQ',
+          },
         ],
       },
       right: {
